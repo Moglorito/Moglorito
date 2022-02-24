@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Moglorito
+- 👀 I’m interested in games
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on anything related to computer science
+- 📫 How to reach me moglo.nguyen@gmail.com
